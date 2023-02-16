@@ -1,0 +1,80 @@
+#body {
+    align-content: center;
+    width: 1200px;
+    margin: 0 auto;
+}
+
+#introduce {
+    border: 1px solid black;
+    border-radius: 10px 10px;
+    margin-top: 30px;
+}
+
+#movie {
+    border: 1px solid black;
+    border-radius: 10px 10px;
+}
+
+#guestBook {
+    border: 1px solid black;
+    border-radius: 10px 10px;
+    margin-bottom: 30px;
+}
+
+h1, .name, .checkbox, .button {
+    margin-left: 10px;
+}
+
+li {
+    font-size: 18px;
+}
+
+#rank {
+    width: 40px;
+}
+
+#title {
+    width: 70px;
+}
+
+#summary {
+    width: 788px;
+}
+
+.rankNumber, .movieName, .movieLink {
+    text-align: center;
+}
+
+.rankNumber, .movieName {
+    font-weight: bold;
+}
+
+th {
+    height: 40px;
+    font-size: large;
+}
+
+.summaryDetail {
+    padding: 5px;
+}
+
+.button {
+    padding-top: 5px;
+    padding-bottom: 10px;
+}
+
+.check {
+    margin-top: -10px;
+}
+
+#button, #reset {
+    opacity: 70%;
+    background-color: skyblue;
+    border: none;
+    border-radius: 3px;
+    width: 40px;
+}
+
+.movieLink {
+    font-style: italic;
+}
